@@ -1,0 +1,21 @@
+body{
+    margin: 0px;
+}
+header{
+    background-color: aqua;
+    padding: 8px 8px;
+    text-align: center;
+    font-size: 18px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.bg-color{
+   padding: 20px;
+}
+
+img{
+    width: 100%;
+    height: 90vh;
+}
+table,td{
+    padding: 5px;
+}
